@@ -6,8 +6,11 @@
 
 User Personas:
  1) Name: Bob Bosby
+ 
     Age: 18 years
+    
     Educatoin: Student
+    
     Hobbies: Video games nad paintings
     
     Symmary: Bob is 18years old and he is in a final year of high schoool. He is planning to go to community college for assosiate degree but he wants know about how  
