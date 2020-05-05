@@ -13,4 +13,4 @@ User Personas:
     
     Hobbies: Video games nad paintings
     
-    Symmary: Bob is 18years old and he is in a final year of high schoool. He is planning to go to community college for assosiate degree but he wants know about how  
+    Symmary: Bob is 18years old and he is in a final year of high schoool lives in new jersey. He is planning to go to community college for assosiate degree but he wants to know more information financial assistance. Bob wants to know whether he is eligible for financial aid or not. This website will help him to get all information about FAFSA. It      
