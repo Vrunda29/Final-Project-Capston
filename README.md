@@ -1,6 +1,6 @@
 # Final-Project-Capstone
 
-This project will be an interface-driven presentation of a datasets of: 
+This project will is an interface-driven presentation of a datasets of: 
 
 - School Survey on Crime and Safety, 2016 (https://catalog.data.gov/dataset/school-survey-on-crime-and-safety-2016)
 - Career and Technical Education Programs in Public School Districts, 2016–17 (https://catalog.data.gov/dataset/career-and-technical-education-programs-in-public-school-districts-201617)
